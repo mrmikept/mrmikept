@@ -1,16 +1,16 @@
 ## 👋 Hi there, I'm Mike Pinto 
 
-```js
-import Developer from "mrmikept";
 
-class aboutMe extends Developer {
-  name = "Mike Pinto";
-  course = [
-    "MSc in Software Engineering @ UMinho",
-    "Specialization: Distributed Systems & Application Engineering"
-  ];
-  location = "Braga, Portugal";
-}
+```js
+const aboutMe = {
+  username: "mrmikept",
+  fullName: "Mike Pinto",
+  specs: {
+    degree: "MSc in Software Engineering @ UMinho",
+    specializations: ["Distributed Systems", "Application Engineering"],
+    location: "Braga, Portugal"
+  }
+};
 ```
 
 ## :inbox_tray: Reach me
