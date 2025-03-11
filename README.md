@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi there, I'm Mike Pinto 
 
 ```js
 import Developer from "mrmikept";
 
 class aboutMe extends Developer {
   name = "Mike Pinto";
-  course = "MS in software engineering @ UMinho";
-  where = "Braga, Portugal";
+  course = [
+    "MSc in Software Engineering @ UMinho",
+    "Specialization: Distributed Systems & Application Engineering"
+  ];
+  location = "Braga, Portugal";
 }
 ```
 
------------------------------
+## :inbox_tray: Reach me
+
+<div>
+    <a href = "mailto:mikepinto.code@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/mike-pinto"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
+## :zap: Contributions 
 
 <div>
 <a href="https://github.com/mrmikept">
@@ -20,9 +32,3 @@ class aboutMe extends Developer {
 
 ![Snake animation](https://github.com/mrmikept/mrmikept/blob/output/github-contribution-grid-snake-dark.svg)
 
-## Reach me
-
-<div>
-    <a href = "mailto:mikepinto.code@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/mike-pinto" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
