@@ -20,16 +20,7 @@ const aboutMe = {
     <a href="https://www.linkedin.com/in/mike-pinto"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## :mortar_board: Academic Projects
-
-### Bachelor
-
-Great idea! Structuring your projects by **course year** and **degree level** makes it easy for visitors to understand your academic journey. Here's how you can format it:  
-
----
-
 ## 🎓 **Academic Projects**  
-
 
 ### 🎓 **Bachelor’s Degree (BSc in Computer Science)**  
 
