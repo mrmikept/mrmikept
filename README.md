@@ -34,7 +34,7 @@ const aboutMe = {
 **Description:** Interactive and dynamic portal dedicated to exploring and sharing scenic viewpoints and swings.
 **Tags:** `Vue.JS`, `Java Spring Boot`, `MySQL`, `Hibernate`
 
-📌 **SteamBench – PostgreSQL Optimization & Tuning Suite ([GitHub](hhttps://github.com/mrmikept/Administracao-de-Bases-de-Dados))**  
+📌 **SteamBench – PostgreSQL Optimization & Tuning Suite ([GitHub](https://github.com/mrmikept/Administracao-de-Bases-de-Dados))**  
 **Description:** infrastructure and automation scripts for advanced PostgreSQL database optimization. Features automated parameter kernel tuning (shared_buffers, work_mem), index-only scans, stored properties, and query refactoring under high-concurrency OLTP/OLAP simulation.
 **Tags:** `Python`, `Java`, `PostgreSQL`, `Database Administration`, `Performance Tuning`, `Automation`, `Scripting`
 
