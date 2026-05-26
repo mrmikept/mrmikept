@@ -31,17 +31,17 @@ const aboutMe = {
 <h3>Application Engineering Track</h3>
 
 📌 **MiradorUM – Portal of Instagrammable Viewpoints and Swings ([GitHub](https://github.com/mrmikept/Miradourum))**  
-**Description:** Interactive and dynamic portal dedicated to exploring and sharing scenic viewpoints and swings.
+**Description:** Interactive and dynamic portal dedicated to exploring and sharing scenic viewpoints and swings. </br>
 **Tags:** `Vue.JS`, `Java Spring Boot`, `MySQL`, `Hibernate`
 
 📌 **SteamBench – PostgreSQL Optimization & Tuning Suite ([GitHub](https://github.com/mrmikept/Administracao-de-Bases-de-Dados))**  
-**Description:** infrastructure and automation scripts for advanced PostgreSQL database optimization. Features automated parameter kernel tuning (shared_buffers, work_mem), index-only scans, stored properties, and query refactoring under high-concurrency OLTP/OLAP simulation.
+**Description:** infrastructure and automation scripts for advanced PostgreSQL database optimization. Features automated parameter kernel tuning (shared_buffers, work_mem), index-only scans, stored properties, and query refactoring under high-concurrency OLTP/OLAP simulation. </br>
 **Tags:** `Python`, `Java`, `PostgreSQL`, `Database Administration`, `Performance Tuning`, `Automation`, `Scripting`
 
 <h3>Distributed Systems Track</h3>
 
 📌 **Raft Byzantine Analysis – Vulnerability Analysis in the Raft Algorithm face to Assertive Faults ([GitHub](https://github.com/mrmikept/Tolerancia-a-Faltas))**  
-**Description:** Study of the resilience of the Raft consensus algorithm against assertive (byzantine) faults, demonstrating security property violations
+**Description:** Study of the resilience of the Raft consensus algorithm against assertive (byzantine) faults, demonstrating security property violations </br>
 **Tags:** `Python`, `Distributed Systems`, `Raft`, `Maelstrom`, `Byzantine Faults`
 
 
