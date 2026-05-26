@@ -61,6 +61,14 @@ const aboutMe = {
 **Description:** Threaded Client-Server Application, based on Cloud Computing and FAAS.  
 **Tags:** `Java`, `Distributed Systems`, `Threading`  
 
+📌 **Laboratórios de Informática IV - LeilUM Plataforma de leilões online ([GitHub](https://github.com/mrmikept/Laboratarios-de-Informatica-IV))**  
+**Description:** Web Application for online biddings built using the Blazor Framework in C# with a Monolothic Architecture
+**Tags:** `Blazor`, `C#`, `Monolithic Architecture`
+
+📌 **Engenharia Web - LearnMinder Plataforma de partilha de recursos educacionais ([GitHub](https://github.com/mrmikept/Project_EW_2324))**  
+**Description:** Web Application for online sharing of educational resources.
+**Tags:** `Express.JS`, `JavaScript`, `Microservices Architecture`. `Auth`, `Pug`, `HTML`, `CSS`, `Scripting`
+
 </details>
 
 ## :zap: Contributions 
