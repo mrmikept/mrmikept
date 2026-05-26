@@ -5,7 +5,8 @@
 const aboutMe = {
   username: "mrmikept",
   fullName: "Mike Pinto",
-  specs: {
+  tags: ["Software Engineer", "Full-Stack Developer"]
+  education: {
     degree: "MSc in Software Engineering @ UMinho",
     specializations: ["Distributed Systems", "Application Engineering"],
     location: "Braga, Portugal"
@@ -22,7 +23,33 @@ const aboutMe = {
 
 ## 🎓 **Academic Projects**  
 
-### 🎓 **Bachelor’s Degree (BSc in Computer Science)**  
+### 🎓 **Master's Degree (MSc in Software Engineering)**  
+
+<details>
+  <summary>📅 Year 1</summary>
+
+<h3>Application Engineering Track</h3>
+
+📌 **MiradorUM – Portal of Instagrammable Viewpoints and Swings ([GitHub](https://github.com/mrmikept/Miradourum))**  
+**Description:** Interactive and dynamic portal dedicated to exploring and sharing scenic viewpoints and swings.
+**Tags:** `Vue.JS`, `Java Spring Boot`, `MySQL`, `Hibernate`
+
+📌 **SteamBench – PostgreSQL Optimization & Tuning Suite ([GitHub](hhttps://github.com/mrmikept/Administracao-de-Bases-de-Dados))**  
+**Description:** infrastructure and automation scripts for advanced PostgreSQL database optimization. Features automated parameter kernel tuning (shared_buffers, work_mem), index-only scans, stored properties, and query refactoring under high-concurrency OLTP/OLAP simulation.
+**Tags:** `Python`, `Java`, `PostgreSQL`, `Database Administration`, `Performance Tuning`, `Automation`, `Scripting`
+
+<h3>Distributed Systems Track</h3>
+
+📌 **Raft Byzantine Analysis – Vulnerability Analysis in the Raft Algorithm face to Assertive Faults ([GitHub](https://github.com/mrmikept/Tolerancia-a-Faltas))**  
+**Description:** Study of the resilience of the Raft consensus algorithm against assertive (byzantine) faults, demonstrating security property violations
+**Tags:** `Python`, `Distributed Systems`, `Raft`, `Maelstrom`, `Byzantine Faults`
+
+
+
+
+</details>
+
+### 🎓 **Bachelor’s Degree (BSc in Software Engineering)**  
 
 <details>
   <summary>📅 Year 1</summary>
